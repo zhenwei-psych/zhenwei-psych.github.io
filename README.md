@@ -1,1 +1,190 @@
 # zhenweizw.github.io
+
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+	<head>
+		<link href="http://gmpg.org/xfn/11" rel="profile">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+		<!-- Metadata -->
+			<meta name="description" content="Cognitive Scientist" />
+			<meta property="og:description" content="Cognitive Scientist" />
+			<meta property="og:title" content="Mark Ho" />
+			<meta property="og:type" content="website" />
+			<meta property="og:url" content="" />
+		<meta property="og:image" content="/images/markkho.jpg" />
+
+		<!-- Enable responsiveness on mobile devices-->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+		<title>Mark Ho</title>
+
+		<!-- CSS -->
+		<link href="//fonts.googleapis.com/" rel="dns-prefetch">
+		<link href="//fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic|Abril+Fatface|PT+Sans:400,400italic,700&amp;subset=latin,latin-ext" rel="stylesheet">
+		<link href='https://fonts.googleapis.com/css?family=Antic Slab' rel='stylesheet'>
+        <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Goudy+Bookletter+1911" rel="stylesheet">
+
+		<link rel="stylesheet" href="/theme/css/poole.css" />
+		<link rel="stylesheet" href="/theme/css/hyde.css" />
+		<link rel="stylesheet" href="/theme/css/syntax.css" />
+        <link rel="stylesheet" href="/theme/css/style.css" />
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+
+		<!-- RSS -->
+		<link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+	<script type="text/javascript">
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ 			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ 			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ 			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-44411327-2', 'auto');
+			ga('send', 'pageview');
+	</script>
+
+        <!-- JS -->
+        <script
+            src="https://cdn.jsdelivr.net/npm/citation-js@0.4.0-9/build/citation.min.js"
+            type="text/javascript"
+        ></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.11/lodash.core.min.js"></script>
+        <script
+            src="https://code.jquery.com/jquery-3.3.1.min.js"
+            integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+            crossorigin="anonymous"
+        ></script>
+	</head>
+
+	<body class="theme-base-10">
+<div class="sidebar">
+	<div class="container sidebar-sticky">
+		<div class="sidebar-about">
+
+			<h1>
+				<a href="/">
+					<img class="profile-picture" src="/images/markkho.jpg">
+					Mark Ho
+				</a>
+			</h1>
+			<p class="lead"></p>
+			<p class="lead">Cognitive Scientist</p>
+			<p></p>
+		</div>
+		<div>
+				<div>
+					<a href="/" class="sidebar-link">
+						Home
+					</a>
+				</div>
+				<div>
+					<a href="/pages/publications.html" class="sidebar-link">
+						Publications
+					</a>
+				</div>
+		</div>
+		<div>
+		</div>
+		<nav class="sidebar-nav">
+					<a class="sidebar-nav-item" href="https://github.com/markkho" target="_blank">
+						<i class="fa fa-github"></i>
+					</a>
+					<a class="sidebar-nav-item" href="https://twitter.com/Mark_Ho_" target="_blank">
+						<i class="fa fa-twitter"></i>
+					</a>
+					<a class="sidebar-nav-item" href="mailto:mark.ho.cs@gmail.com">
+						<i class="fa fa-envelope"></i>
+					</a>
+		</nav>
+	</div>
+</div>		<div class="content container">
+<h1>About Me</h1>
+<p>
+    Welcome! I study how people solve problems, individually and interactively.
+</p>
+<p>
+    I combine approaches from psychology, neuroscience, computer science, and philosophy to understand how people think and act. My research provides insights into <b><i>human planning</i></b> and <b><i>social cognition</i></b> by developing computational theories (e.g., using probabilistic models, reinforcement learning, neural networks) and testing those theories experimentally with people.
+</p>
+
+<p>My CV can be found <a target="_blank" href="/documents/mark_ho_cv.pdf">here</a>.</p>
+<p>Feel free to reach out! My email is <a href="mailto:mark.ho.cs@gmail.com">mark.ho.cs@gmail.com</a></p>
+
+<p>
+    <u><b><i>Recent update:</i></b></u> Starting Fall 2022, I will be a Faculty Fellow in the NYU Center for Data Science. In Fall 2023, I will be starting as a tenure-track Assistant Professor in the Department of Computer Science at Stevens Institute of Technology (<a href="https://g.page/Stevens1870?share">located 20 mins from NYC in Hoboken, NJ</a>), and I will be recruiting Ph.D. students / post-docs / research assistants. If you are interested in working with me, reach out!
+</p>
+<br>
+<br>
+<h1>
+    Representative Papers
+</h1>
+<p>
+    <!-- <div id="ho2022people" class="rep-publication"><a target="_blank" href="https://www.nature.com/articles/s41586-022-04743-9"><div class="csl-bib-body"> -->
+    <div id="ho2022people" class="rep-publication"><a target="_blank" href="https://www.nature.com/articles/s41586-022-04743-9"><div class="csl-bib-body">
+      <div data-csl-entry-id="ho2022people" class="csl-entry">Ho, M. K., Abel, D., Correa, C. G., Littman, M. L., Cohen, J. D., &amp; Griffiths, T. L. (2022). <b>People construct simplified mental representations to plan</b>. <i>Nature</i>.</div>
+    </div></a></div>
+    <div style="margin-left:5%">This paper proposes a theory of <i>value-guided construals</i>: simplified but useful representations that people construct when planning.
+    Also see my post for <a href="https://socialsciences.nature.com/posts/people-construct-simplified-mental-representations-to-plan" target="_blank">Nature's Behind the Paper</a>.
+</div>
+</p>
+<p>
+    <div id="ho2022planning" class="rep-publication"><a target="_blank" href="https://authors.elsevier.com/a/1fjBQ4sIRvLYsx"><div class="csl-bib-body">
+        <div data-csl-entry-id="ho2022planning" class="csl-entry">Ho, M. K., Saxe, R., &amp; Cushman, F. (2022). <b>Planning with Theory of Mind</b>. <i>Trends in Cognitive Sciences</i>.</div>
+    </div></a></div>
+    <div style="margin-left:5%">This paper examines how planning processes shape Theory of Mind representations.</div>
+</p>
+<p>
+    <div id="ho2022cognitive" class="rep-publication"><a target="_blank" href="http://markkho.github.io/documents/ho_griffiths_annual_review_2022.pdf"><div class="csl-bib-body">
+    <div data-csl-entry-id="ho2022cognitive" class="csl-entry">Ho, M. K., &amp; Griffiths, T. L. (2022). <b>Cognitive science as a source of forward and inverse models of human decisions for robotics and control</b>. <i>Annual Review of Control, Robotics, and Autonomous Systems</i>.</div>
+    </div></a></div>
+    <div style="margin-left:5%">A review of computational cognitive science for artificial intelligence, control, and robotics.</div>
+</p>
+<p>
+    <div id="ho2021communication" class="rep-publication"><a target="_blank" href="https://psyarxiv.com/a8sxk/"><div class="csl-bib-body">
+    <div data-csl-entry-id="ho2021communication" class="csl-entry">Ho, M. K., Cushman, F., Littman, M. L., &amp; Austerweil, J. L. (2021). <b>Communication in action: Planning and interpreting communicative demonstrations</b>. <i>Journal of Experimental Psychology: General</i>.</div>
+    </div></a></div>
+    <div style="margin-left:5%">This paper examines the computations underlying intentionally communicative actions.</div>
+</p>
+<p>
+    <div id="ho2019value" class="rep-publication"><a target="_blank" href="https://markkho.github.io/documents/cobs2019_value_of_abstr.pdf"><div class="csl-bib-body">
+    <div data-csl-entry-id="ho2019value" class="csl-entry">Ho, M. K., Abel, D., Griffiths, T. L., &amp; Littman, M. L. (2019). <b>The Value of Abstraction</b>. <i>Current Opinion in Behavioral Sciences</i>.</div>
+    </div></a></div>
+    <div style="margin-left:5%">An accessible review of abstract representations in reinforcement learning.</div>
+</p>
+
+<p>
+    For a complete list of papers (including links to pdfs and code), please see my <a href="/pages/publications.html">publications</a> page.
+</p>
+
+<br>
+<br>
+<h1>Bio</h1>
+
+<p>
+    I'm currently a post-doc in the Computer Science and Psychology departments at
+    Princeton University, where I work with
+    <a href="http://cocosci.princeton.edu/index.php" target="_blank">Tom Griffiths</a>
+    and <a href="https://webapps.pni.princeton.edu/ncc/JDC/JDC/Home_Page.html" target="_blank">Jonathan Cohen</a>
+    on developing computational theories of human planning.
+    Previously, I was affiliated with the
+    <a href="http://people.eecs.berkeley.edu/~sseshia/" target="_blank">Learn and Verify Group</a>
+    in the Department of Electrical Engineering and Computer Sciences at UC Berkeley. I received my Ph.D. in Cognitive Science from Brown University, where I worked with <a href="http://alab.psych.wisc.edu/" target="_blank">Joseph Austerweil</a> and <a href="https://cushmanlab.fas.harvard.edu/" target="_blank">Fiery Cushman</a> on teaching and social learning. I also received my M.S. in Computer Science working with <a href="https://www.littmania.com/" target="_blank">Michael Littman</a> on interactive machine learning. As an undergraduate at Princeton, I majored in Philosophy and minored in Computer Science, and Gil Harman advised my senior thesis. I'm originally from New York City and currently live there.
+</p>
+
+<p>
+    People sometimes ask about my last name. It comes from the Chinese surname 何 (pinyin: Hé; Wade–Giles: Ho). Most of my living relatives are from the US, Taiwan, and the Philippines but trace their ancestry back to mainland China.
+</p>
+
+<!-- <h1>Tools</h1>
+<p>
+    <a href="https://carlos.correa.me/about/" target="_blank">Carlos G. Correa</a> and I develop msdm (Models of Sequential Decision-Making), a python library for building cognitive models.
+</p> -->
+</div>
+		</div>
+		<div class="content container" style="font-size:14px">
+			<p>Copyright &copy; Mark Ho 2016-2022. Theme based on <a target="_blank" href="https://github.com/jvanz/pelican-hyde">Pelican-Hyde</a>.</p>
+			<p></p>
+		</div>
+	</body>
+</html>
