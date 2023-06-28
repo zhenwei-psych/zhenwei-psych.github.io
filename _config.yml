@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Zhen Wei's Page"
 title_separator          : "-"
 name                     : &name "Zhen Wei"
 description              : &description "personal description"
