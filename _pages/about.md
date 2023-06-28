@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhen Wei's homepage"
+title: "Zhen Wei's Homepage"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
