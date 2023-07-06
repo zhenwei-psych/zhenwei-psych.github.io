@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<br/><img src='/images/zhen.jpg'>
 
 About me
 ======
