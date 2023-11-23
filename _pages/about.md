@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<br/><img src='/images/zhen(1).jpg'>
-
-
 About me
 ======
 I am a first year Ph.D. student in Neuroscience at The University of Texas at Austin. I am honored to be supervised by Professor [Franco Pestilli](https://liberalarts.utexas.edu/psychology/faculty/fp4834). I am interested in visual perception, visual neuroscience, and computational modeling. My research focuses on how to build computational models to best capture human visual perception.
