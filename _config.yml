@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhen Wei"
   avatar           : "profile(2).jpg"
-  bio              : "M.S. in Neuroscience \nThe University of Texas at Austin"
+  bio              : "M.S. in Neuroscience"\n"The University of Texas at Austin"
   location         : "Austin, TX, USA"
   employer         :
   pubmed           : 
