@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Zhen Wei"
   avatar           : "profile(2).jpg"
-  bio              : "M.S. in Neuroscience, The University of Texas at Austin"
+  bio              : |
+                      "M.S. in Neuroscience"\
+                      "The University of Texas at Austin"
   location         : "Austin, TX, USA"
   employer         :
   pubmed           : 
@@ -109,7 +111,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@12345"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
